@@ -8,7 +8,7 @@ Class: L4AC
 
 ## FastAPI design
 
-![FastApi](/react-todo-list/frontendsrc/assets/Dashboard.png)
+![FastApi](/react-todo-list/frontend/src/assets/Dashboard.png)
 
 ## Create User
 
